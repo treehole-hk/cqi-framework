@@ -1,4 +1,4 @@
-MIT License
+MIT License (Code)
 
 Copyright (c) 2026 TreeholeHK Limited
 
@@ -19,3 +19,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Creative Commons Attribution 4.0 International (CC-BY 4.0) (Rubric and Data)
+
+RUBRIC.md and data/ are licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+https://creativecommons.org/licenses/by/4.0/
+
+You must give appropriate credit, provide a link to the license, and indicate
+if changes were made. Attribution should cite:
+
+  Chan, P. K. (2026). Conversation Quality Index (CQI).
+  https://github.com/thkbaldpsychologist/cqi-framework

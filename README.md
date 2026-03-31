@@ -72,4 +72,7 @@ If you use the CQI framework or data, please cite:
 
 ## License
 
-MIT (code and data). See [LICENSE](LICENSE).
+- **Code** (`analyze.py`): MIT License
+- **Rubric and data** (`RUBRIC.md`, `data/`): [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+See [LICENSE](LICENSE) for details.
